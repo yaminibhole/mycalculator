@@ -1,0 +1,27 @@
+.text-center {
+  text-align: center;
+}
+
+.mx-auto {
+  margin: auto
+}
+
+.mw20 {
+  max-width: 30vw;
+}
+
+.button {
+  padding: 18px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
